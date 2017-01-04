@@ -12,6 +12,7 @@ Here are the steps to use this program:
    sort_preceptorials()
    ~~~~
 5. Follow instructions in program.
+
 ## To Developers
 Follow step 1 above to download python 3.
 
