@@ -1,16 +1,22 @@
 # St.-Johns-Sorting
 ## To User
 Here are the steps to use this program:
+
 1. Download Python 3 from [here](https://www.python.org/downloads/release/python-352/) by scrolling down to Files and choosing the file that most matches your operating system. Follow all installation instructions.
+
 2. Click on the green Clone or Download button above here and click Download ZIP. Open the ZIP file in Finder/Windows Explorer/etc.
+
 3. Open the command line. (On a Mac, this is called Terminal, on a Windows, it is called Command Prompt.)
+
 4. Run these programs in the shell. Make sure to type them exactly as written, then press enter:
+
    ~~~~
    cd Downloads/St.-Johns-Sorting-Master
    python3
    exec(open("main.py").read())
    sort_preceptorials()
    ~~~~
+   
 5. Follow instructions in program.
 
 ## To Developers
